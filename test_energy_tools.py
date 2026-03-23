@@ -1,3 +1,6 @@
+## Developed with assistance from Gemini (AI)
+# Author: Reinahrd Köppel
+
 import pytest
 from energy_tools import calculate_solar_yield, calculate_performance_ratio, is_system_faulty
 
