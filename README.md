@@ -24,6 +24,8 @@ Run the tests:
 `pytest test_energy_tools.py`
 
 This repo uses GitHub Actions to run these tests automatically on every push.
+## Usage of AI
+Note that I used AI in all the files. Since i have never worked with Git before i gave Gemini the requirements of my Homework and worked through all the steps one by one. I adjusted most of the text myself and implemented it.
 
 The aim of this repository is to get used to the git environment and fulfill the requirements of the first assignment of the lecture "370.062 Open Source Energy System Modeling". 
 
