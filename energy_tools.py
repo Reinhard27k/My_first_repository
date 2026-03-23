@@ -1,3 +1,5 @@
+## Developed with assistance from Gemini (AI)
+# Author: Reinahrd Köppel
 
 def calculate_solar_yield(area, efficiency, solar_irradiation):
     """
