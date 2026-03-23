@@ -1,9 +1,7 @@
 ![Build Status](https://github.com/Reinhard27k/My_first_repository/actions/workflows/main.yml/badge.svg)
 
-# Solar PV Tracker
-... (rest of your readme)
 
-# My_first_repository
+# Solar PV Tracker
 A simple tool to check if solar panels are hitting their target output. I built this to help identify when a system needs maintenance (like cleaning or repairs) by comparing theoretical math against actual meter readings.
 
 ## What it does
