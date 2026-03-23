@@ -1,3 +1,6 @@
+pip install -r requirements.txt
+pytest test_energy_tools.py
+
 def calculate_solar_yield(area, efficiency, solar_irradiation):
     """
     Calculates expected energy yield in kWh.
