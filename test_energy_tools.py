@@ -1,4 +1,5 @@
-## Developed with assistance from Gemini (AI)
+nano test_energy_tools.py
+nano test_energy_tools.py## Developed with assistance from Gemini (AI)
 # Author: Reinahrd Köppel
 
 import pytest
@@ -6,7 +7,8 @@ from energy_tools import calculate_solar_yield, calculate_performance_ratio, is_
 
 def test_yield_calculation():
     # 10m2 panel * 20% efficiency * 5kWh/m2 radiation = 10kWh
-    assert calculate_solar_yield(10, 0.20, 5) == 10.0
+    assert calculate_solar_yield(10, 0.20, 5) == 
+999
 
 def test_negative_input_error():
     with pytest.raises(ValueError):
